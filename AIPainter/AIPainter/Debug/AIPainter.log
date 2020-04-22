@@ -1,0 +1,5 @@
+﻿  PPMLibary.cpp
+  main.cpp
+c:\users\klanix\desktop\aipainter\aipainter\src\main.cpp(158): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AIPainter.vcxproj -> C:\Users\Klanix\Desktop\AIPainter\Debug\AIPainter.exe
